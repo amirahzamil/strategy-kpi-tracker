@@ -1,0 +1,12 @@
+perspective,kpi,target,actual,better
+Customer,Customer satisfaction (%),85,82,higher
+Customer,Average response time (hours),24,30,lower
+Customer,Services completed on time (%),90,93,higher
+Financial,Budget accuracy (%),95,91,higher
+Financial,Cost per transaction (SAR),120,130,lower
+Internal Processes,Processes digitized (%),70,62,higher
+Internal Processes,Error rate (%),2,1.5,lower
+Internal Processes,Audit compliance (%),100,96,higher
+Learning & Growth,Training hours per employee,40,44,higher
+Learning & Growth,Employee satisfaction (%),80,74,higher
+Learning & Growth,Staff retention (%),92,90,higher
